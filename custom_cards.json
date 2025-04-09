@@ -1,9 +1,9 @@
 [
   {
     "title": "KIXE PBS Caregiver's Hour",
-    "datetime": "Sundays",
-    "time": "7 pm",
-    "description": "",
+    "datetime": "",
+    "time": "",
+    "description": "Part of our commitment to caregivers in our community",
     "image": "https://raw.githubusercontent.com/titletrack/kixe_pbs_custom_cards/refs/heads/main/Passages%20Hour%20Tune%20In.webp",
     "link": "https://www.passagescenter.org/",
     "custom": true
