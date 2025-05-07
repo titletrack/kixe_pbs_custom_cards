@@ -1,20 +1,20 @@
 [
   {
+    "title": "KIXE's Srping Auction",
+    "datetime": "",
+    "time": "",
+    "description": "Bid Now on items for your whole family!",
+    "image": "https://raw.githubusercontent.com/titletrack/kixe_pbs_custom_cards/refs/heads/main/Passages%20Hour%20Tune%20In.webp",
+    "link": "https://www.kixe.org/auction/",
+    "custom": true
+  },
+    {
     "title": "KIXE Caregiver's Hour",
     "datetime": "",
     "time": "",
     "description": "Honoring our commitment to caregivers in our community.",
     "image": "https://raw.githubusercontent.com/titletrack/kixe_pbs_custom_cards/refs/heads/main/Passages%20Hour%20Tune%20In.webp",
     "link": "https://www.passagescenter.org/",
-    "custom": true
-  },
-    {
-    "title": "PBS Passport",
-    "datetime": "",
-    "time": "",
-    "description": "Your exclusive member benefit. Watch all your favorite episodes, anytime, anywhere.",
-    "image": "https://bento.pbs.org/prod/filer_public/kixe-bento-live-pbs/Carousel/Carousel-Images/70de0faa8f_KIXEPassport.png",
-    "link": "https://www.pbs.org/passport/learn-more/",
     "custom": true
   }
 ]
